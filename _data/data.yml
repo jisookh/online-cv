@@ -52,7 +52,7 @@ career-profile:
     title: Career Profile
     summary: |
       Currently at Samsung Electronics as a DRAM quality & reliability staff engineer,
-      after studying solid material's properties as an computational materials scientist for 10 years.
+      after studying solid material's properties as a computational materials scientist for 10 years.
       Based on solid understaing how electrons/holes behave in solid systems, 
       I analyse degradation mechanisms of electronic devices under various device working conditions. 
 
@@ -136,7 +136,7 @@ publications:
         link: "https://doi.org/10.1021/acscatal.1c04566"
         authors: Jongkeun Jung, Sungwoo Kang, Laurent Nicolai, Jisook Hong, Jan Minar, 
         Inkyung Song, Wonshik Kyung, Soohyun Cho, Beomseo Kim, Jonathan D. Denlinger, 
-        Francisco Jose Cadete Santos Aires, Eric Ehret, Philip Ross, Jihoon Shim, Slavomir Nemšák, 
+        Francisco Jose Cadete Santos Aires, Eric Ehret, Philip Ross, Jihoon Shim, Slavomir Nemsak, 
         Doyoung Noh, Seungwu Han, Changyoung Kim, and Bongjin Simon Mun
         conference: ACS Catalysis 12, 219-225 (2021)
 
