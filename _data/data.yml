@@ -27,7 +27,8 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: # http://www.africau.edu/images/default/sample.pdf
+    pdf: https://drive.google.com/file/d/1kvUtK-nBR7tcKuTtE1BJrBv3vzjNzceq/view?usp=sharing
+    # http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -123,10 +124,8 @@ experiences:
 
 publications:
     title: Publications
-#     intro: |
-#       You can list your publications in this section. Lorem ipsum dolor sit
-#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#       bibendum fringilla a eu lectus.
+    intro: |
+      You can find the full list of my publication from [Google Scholar](https://scholar.google.com/citations?user=xvSGZ3gAAAAJ&hl=en).
     papers:
       - title: Electronic structures of CO adsorbed Pt-skin surface on Pt–Co and Pt–Ni alloys
         link: "https://doi.org/10.1016/j.cap.2021.08.008"
@@ -147,6 +146,88 @@ publications:
         T Balasubramanian, Masashi Arita, Kenya Shimada, Ji Hoon Shim, 
         Changyoung Kim, Seung Ryong Park
         conference: Current Applied Physics 30, 96-101 (2021)
+        
+      - title: Studying local Berry curvature in 2H-WSe2 by circular dichroism photoemission utilizing crystal mirror plane
+        link: "https://doi.org/10.1038/s41598-020-79672-6"
+        authors: Soohyun Cho, Jin-Hong Park, Soonsang Huh, Jisook Hong, Wonshik Kyung, 
+        Byeong-Gyu Park, JD Denlinger, Ji Hoon Shim, Changyoung Kim, Seung Ryong Park
+        conference: Scientific Reports 11, 1-9 (2021)
+        
+      - title: Layer Edge States Stabilized by Internal Electric Fields in Two-Dimensional Hybrid Perovskites
+        link: "https://doi.org/10.1021/acs.nanolett.0c03468"
+        authors: Jisook Hong, David Prendergast, Liang Z Tan
+        conference: Nano Letters 21, 182-188 (2020)
+        
+      - title: Phase control and in situ passivation of quasi-2D metal halide perovskites for spectrally stable blue light-emitting diodes
+        link: "https://doi.org/10.1021/acsami.0c12451"
+        authors: Michael Worku, Qingquan He, Liang-jin Xu, Jisook Hong, Ruo Xi Yang, Liang Z Tan, Biwu Ma
+        conference: ACS Applied Materials & Interfaces 12, 45056-45063 (2020)
+        
+      - title: Enhancement of Giant Rashba Splitting in BiTeI under Asymmetric Interlayer Interaction
+        link: "https://doi.org/10.7566/JPSJ.89.044701"
+        authors: Taesu Park, Jisook Hong, Ji Hoon Sh
+        conference: Journal of the Physical Society of Japan 89, 044701 (2020)
+        
+      - title: Giant Rashba-Type Spin Splitting in Bi/Ag (111) from Asymmetric Interatomic-Hopping
+        link: "https://doi.org/10.7566/JPSJ.88.124705"
+        authors: Jisook Hong, Jun-Won Rhim, Inkyung Song, Changyoung Kim, Seung Ryong Park, Ji Hoon Shim
+        conference: Journal of the Physical Society of Japan 88, 124705 (2019)
+        
+      - title: Gigantic phonon-scattering cross section to enhance thermoelectric performance in bulk crystals
+        link: "https://doi.org/10.1021/acsnano.9b03805"
+        authors: Junphil Hwang, Hoon Kim, Mi-Kyung Han, Jisook Hong, Ji-Hoon Shim, Jang-Yeul Tak, 
+        Young Soo Lim, Yingshi Jin, Jiyong Kim, Hwanjoo Park, Dong-Keon Lee, Je-Hyeong Bahk, 
+        Sung-Jin Kim, Woochul Kim
+        conference: ACS Nano 13, 8347-8355 (2019)
+        
+      - title: Direct visualization of coexisting channels of interaction in CeSb
+        link: "https://doi.org/10.1126/sciadv.aat7158"
+        authors: Sooyoung Jang, Robert Kealhofer, Caolan John, Spencer Doyle, Ji-Sook Hong, Ji Hoon Shim, 
+        Qimiao Si, Onur Erten, Jonathan D Denlinger, James G Analytis
+        conference: Science Advances 5, eaat7158 (2019)
+        
+      - title: Experimental Observation of Hidden Berry Curvature in Inversion-Symmetric Bulk 2H-WSe2
+        link: "https://doi.org/10.1103/PhysRevLett.121.186401"
+        authors: Soohyun Cho, Jin-Hong Park, Jisook Hong, Jongkeun Jung, Beom Seo Kim, Garam Han, 
+        Wonshik Kyung, Yeongkwan Kim, S-K Mo, JD Denlinger, Ji Hoon Shim, Jung Hoon Han, Changyoung Kim, 
+        Seung Ryong Park
+        conference: Physical Review Letters 121, 186401 (2018)
+        
+      - title: Control of valley degeneracy in MoS2 by layer thickness and electric field and its effect on thermoelectric properties
+        link: "https://doi.org/10.1103/PhysRevB.93.035445"
+        authors: Jisook Hong, Changhoon Lee, Jin-Seong Park, Ji Hoon Shim
+        conference: Physical Review B 93, 035445 (2016)
+        
+      - title: Magnetic structure of (C5H12N)CuBr3: Origin of the uniform Heisenberg chain behavior and the magnetic anisotropy of the Cu2+ (S= 1/2) ions
+        link: "https://doi.org/10.1039/C5RA26341G"
+        authors: Changhoon Lee, Jisook Hong, Won-joon Son, Erjun Kan, Ji Hoon Shim, Myung-Hwan Whangbo
+        conference: RSC Advances 6, 22722-22727 (2016)
+        
+      - title: Quantitative analysis on electric dipole energy in Rashba band splitting
+        link: "https://doi.org/10.1038/srep13488"
+        authors: Jisook Hong, Jun-Won Rhim, Changyoung Kim, Seung Ryong Park, Ji Hoon Shim
+        conference: Scientific Reports 5, 1-9 (2015)
+        
+      - title: Organic–inorganic hybrid perovskites ABI3 (A= CH3NH3, NH2CHNH2; B= Sn, Pb) as potential thermoelectric materials: a density functional evaluation
+        link: "https://doi.org/10.1039/C5RA12536G"
+        authors: Changhoon Lee, Jisook Hong, Alessandro Stroppa, Myung-Hwan Whangbo, Ji Hoon Shim
+        conference: RSC Advances 5, 78701-78707 (2015)
+        
+      - title: Density functional theory investigation of the electronic structure and thermoelectric properties of layered MoS2, MoSe2 and their mixed-layer compound
+        link: "https://doi.org/10.1016/j.jssc.2013.12.012"
+        authors: Changhoon Lee, Jisook Hong, Wang Ro Lee, Dae Yeon Kim, Ji Hoon Shim
+        conference: Journal of Solid State Chemistry 211, 113-119 (2014)
+        
+      - title: Analysis of the Difference between the Pyroxenes LiFeSi2O6 and LiFeGe2O6 in Their Spin Order, Spin Orientation, and Ferrotoroidal Order
+        link: "https://doi.org/10.1021/cm5001413"
+        authors: Changhoon Lee, Jinhee Kang, Jisook Hong, Ji Hoon Shim, Myung-Hwan Whangbo
+        conference: Chemistry of Materials 26, 1745-1750 (2014)
+        
+      - title: Enhancing the Thermoelectric Properties of Layered Transition-Metal Dichalcogenides 2H-MQ2 (M = Mo, W; Q = S, Se, Te) by Layer Mixing: Density Functional Investigation
+        link: "https://doi.org/10.1021/cm402281n"
+        authors: Changhoon Lee, Jisook Hong, Myung-Hwan Whangbo, Ji Hoon Shim
+        conference: Chemistry of Materials 25, 3745-3752 (2013)
+        
 
 skills:
     title: Skills &amp; Proficiency
