@@ -125,7 +125,7 @@ experiences:
 publications:
     title: Publications
     intro: |
-      You can find the full list of my publications from #[Google Scholar]#(https://scholar.google.com/citations?user=xvSGZ3gAAAAJ&hl=en).
+      You can find the full list of my publications from [Google Scholar](https://scholar.google.com/citations?user=xvSGZ3gAAAAJ&hl=en).
     papers:
       - title: Electronic structures of CO adsorbed Pt-skin surface on Pt–Co and Pt–Ni alloys
         link: "https://doi.org/10.1016/j.cap.2021.08.008"
