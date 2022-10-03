@@ -69,28 +69,28 @@ education:
       - degree: B.S. in Physics
         university: Pohang University of Science and Technology
         time: 2007 - 2011
-        details: |
-          # Describe your study here lorem ipsum dolor sit amet, consectetuer
+#         details: |
+#           # Describe your study here lorem ipsum dolor sit amet, consectetuer
 
 experiences:
     title: Experiences
     info:
       - role: Staff Engineer
-        time: 2021 - Present
+        time: May. 2021 - Present
         company: Samsung Electronics, Hawsung
         details: |
           I am involved in the development of 1x nanometer technology devices as a Wafer Level Reliability (WLR) Engineer 
           to detect potential quality issues early and meet customer expectations for intrinsic and extrinsic levels of reliability.
       - role: Postdoctoral Researcher
-        time: 2019 - 2021
-        company: Lawrence Berekeley National Laboratory, Berkeley
+        time: Jan. 2019 - Feb. 2021
+        company: Lawrence Berkeley National Laboratory, Berkeley
         details: |
           I conducted theoretical studies on structural/electrical/optical properties of 
           two-dimensional organic-inorganic hybrid perovskites using first-principles calculations
             - explained the origin of exotic edge states in perovskites
             - collaborative work with experimental groups to understand structural details of hybrid perovskites and their surface formation
       - role: Postdoctoral Researcher
-        time: 2019 - 2019
+        time: Sep. 2019 - Dec. 2019
         company: Pohang University of Science and Technology, Pohang
         details: |
             - computational research on electronic properties of two-dimensional materials
@@ -125,43 +125,40 @@ experiences:
 publications:
     title: Publications
     intro: |
-      You can find the full list of my publication from [Google Scholar](https://scholar.google.com/citations?user=xvSGZ3gAAAAJ&hl=en).
+      You can find the full list of my publications from #[Google Scholar]#(https://scholar.google.com/citations?user=xvSGZ3gAAAAJ&hl=en).
     papers:
       - title: Electronic structures of CO adsorbed Pt-skin surface on Pt–Co and Pt–Ni alloys
         link: "https://doi.org/10.1016/j.cap.2021.08.008"
         authors: Jongkeun Jung, Jisook Hong, Donghan Kim, Minsoo Kim, Jihoon Shim, Changyoung Kim
-        conference: Current Applied Physics 35, 1-6 (2022)
+        conference: Current Applied Physics 35, 1 - 6 (2022)
 
       - title: Understanding the Role of Electronic Effects in CO on the Pt–Sn Alloy Surface via Band Structure Measurements
         link: "https://doi.org/10.1021/acscatal.1c04566"
-        authors: Jongkeun Jung, Sungwoo Kang, Laurent Nicolai, Jisook Hong, Jan Minar, 
-        Inkyung Song, Wonshik Kyung, Soohyun Cho, Beomseo Kim, Jonathan D. Denlinger, 
-        Francisco Jose Cadete Santos Aires, Eric Ehret, Philip Ross, Jihoon Shim, Slavomir Nemsak, 
-        Doyoung Noh, Seungwu Han, Changyoung Kim, and Bongjin Simon Mun
-        conference: ACS Catalysis 12, 219-225 (2021)
+        authors: Jongkeun Jung, Sungwoo Kang, Laurent Nicolai, Jisook Hong, Jan Minar, Inkyung Song, Wonshik Kyung, Soohyun Cho, Beomseo Kim, Jonathan D. Denlinger, Francisco Jose Cadete Santos Aires, Eric Ehret, Philip Ross, Jihoon Shim, Slavomir Nemsak, Doyoung Noh, Seungwu Han, Changyoung Kim, and Bongjin Simon Mun
+        conference: ACS Catalysis 12, 219 - 225 (2021)
 
       - title: Observation of Dresselhaus type spin splitting of zinc blende structure semiconductors by circular dichroic photoemission study
         link: "https://doi.org/10.1016/j.cap.2021.06.011"
         authors: Soohyun Cho, Wonsig Jung, Jisook Hong, Beomyoung Kim, Garam Han, M. Leandersson, 
         T. Balasubramanian, Masashi Arita, Kenya Shimada, Ji Hoon Shim, 
         Changyoung Kim, Seung Ryong Park
-        conference: Current Applied Physics 30, 96-101 (2021)
+        conference: Current Applied Physics 30, 96 - 101 (2021)
         
       - title: Studying local Berry curvature in 2H-WSe2 by circular dichroism photoemission utilizing crystal mirror plane
         link: "https://doi.org/10.1038/s41598-020-79672-6"
         authors: Soohyun Cho, Jin-Hong Park, Soonsang Huh, Jisook Hong, Wonshik Kyung, 
-        Byeong-Gyu Park, J. D. Denlinger, Ji Hoon Shim, Changyoung Kim, Seung Ryong Park
-        conference: Scientific Reports 11, 1-9 (2021)
+        Byeong-Gyu Park, J.D. Denlinger, Ji Hoon Shim, Changyoung Kim, Seung Ryong Park
+        conference: Scientific Reports 11, 1 - 9 (2021)
         
       - title: Layer Edge States Stabilized by Internal Electric Fields in Two-Dimensional Hybrid Perovskites
         link: "https://doi.org/10.1021/acs.nanolett.0c03468"
         authors: Jisook Hong, David Prendergast, Liang Z. Tan
-        conference: Nano Letters 21, 182-188 (2020)
+        conference: Nano Letters 21, 182 - 188 (2020)
         
       - title: Phase control and in situ passivation of quasi-2D metal halide perovskites for spectrally stable blue light-emitting diodes
         link: "https://doi.org/10.1021/acsami.0c12451"
         authors: Michael Worku, Qingquan He, Liang-jin Xu, Jisook Hong, Ruo Xi Yang, Liang Z. Tan, Biwu Ma
-        conference: ACS Applied Materials & Interfaces 12, 45056-45063 (2020)
+        conference: ACS Applied Materials & Interfaces 12, 45056 - 45063 (2020)
         
       - title: Enhancement of Giant Rashba Splitting in BiTeI under Asymmetric Interlayer Interaction
         link: "https://doi.org/10.7566/JPSJ.89.044701"
@@ -178,7 +175,7 @@ publications:
         authors: Junphil Hwang, Hoon Kim, Mi-Kyung Han, Jisook Hong, Ji-Hoon Shim, Jang-Yeul Tak, 
         Young Soo Lim, Yingshi Jin, Jiyong Kim, Hwanjoo Park, Dong-Keon Lee, Je-Hyeong Bahk, 
         Sung-Jin Kim, Woochul Kim
-        conference: ACS Nano 13, 8347-8355 (2019)
+        conference: ACS Nano 13, 8347 - 8355 (2019)
         
       - title: Direct visualization of coexisting channels of interaction in CeSb
         link: "https://doi.org/10.1126/sciadv.aat7158"
@@ -189,7 +186,7 @@ publications:
       - title: Experimental Observation of Hidden Berry Curvature in Inversion-Symmetric Bulk 2H-WSe2
         link: "https://doi.org/10.1103/PhysRevLett.121.186401"
         authors: Soohyun Cho, Jin-Hong Park, Jisook Hong, Jongkeun Jung, Beom Seo Kim, Garam Han, 
-        Wonshik Kyung, Yeongkwan Kim, S-K Mo, J. D. Denlinger, Ji Hoon Shim, Jung Hoon Han, Changyoung Kim, 
+        Wonshik Kyung, Yeongkwan Kim, S-K Mo, J.D. Denlinger, Ji Hoon Shim, Jung Hoon Han, Changyoung Kim, 
         Seung Ryong Park
         conference: Physical Review Letters 121, 186401 (2018)
         
@@ -206,27 +203,27 @@ publications:
       - title: Quantitative analysis on electric dipole energy in Rashba band splitting
         link: "https://doi.org/10.1038/srep13488"
         authors: Jisook Hong, Jun-Won Rhim, Changyoung Kim, Seung Ryong Park, Ji Hoon Shim
-        conference: Scientific Reports 5, 1-9 (2015)
+        conference: Scientific Reports 5, 1 - 9 (2015)
         
       - title: "Organic–inorganic hybrid perovskites ABI3 (A= CH3NH3, NH2CHNH2; B= Sn, Pb) as potential thermoelectric materials: a density functional evaluation"
         link: "https://doi.org/10.1039/C5RA12536G"
         authors: Changhoon Lee, Jisook Hong, Alessandro Stroppa, Myung-Hwan Whangbo, Ji Hoon Shim
-        conference: RSC Advances 5, 78701-78707 (2015)
+        conference: RSC Advances 5, 78701 - 78707 (2015)
         
       - title: Density functional theory investigation of the electronic structure and thermoelectric properties of layered MoS2, MoSe2 and their mixed-layer compound
         link: "https://doi.org/10.1016/j.jssc.2013.12.012"
         authors: Changhoon Lee, Jisook Hong, Wang Ro Lee, Dae Yeon Kim, Ji Hoon Shim
-        conference: Journal of Solid State Chemistry 211, 113-119 (2014)
+        conference: Journal of Solid State Chemistry 211, 113 - 119 (2014)
         
       - title: Analysis of the Difference between the Pyroxenes LiFeSi2O6 and LiFeGe2O6 in Their Spin Order, Spin Orientation, and Ferrotoroidal Order
         link: "https://doi.org/10.1021/cm5001413"
         authors: Changhoon Lee, Jinhee Kang, Jisook Hong, Ji Hoon Shim, Myung-Hwan Whangbo
-        conference: Chemistry of Materials 26, 1745-1750 (2014)
+        conference: Chemistry of Materials 26, 1745 - 1750 (2014)
         
       - title: "Enhancing the Thermoelectric Properties of Layered Transition-Metal Dichalcogenides 2H-MQ2 (M = Mo, W; Q = S, Se, Te) by Layer Mixing: Density Functional Investigation"
         link: "https://doi.org/10.1021/cm402281n"
         authors: Changhoon Lee, Jisook Hong, Myung-Hwan Whangbo, Ji Hoon Shim
-        conference: Chemistry of Materials 25, 3745-3752 (2013)
+        conference: Chemistry of Materials 25, 3745 - 3752 (2013)
         
 
 skills:
