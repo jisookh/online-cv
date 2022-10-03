@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Jisook Hong
@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: jisookhong5@gmail.com
     phone:
-    timezone: Republic of Korea/Seoul Timezone
+    timezone: Korea/Seoul Timezone
     citizenship:
     website: #blog.webjeda.com #do not add http://
     linkedin: jisookh
@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: # http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -62,24 +62,15 @@ education:
         university: Pohang University of Science and Technology
         time: 2012 - 2018
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          I studied electronic structure of two-dimensional solid-state materials using first-principles calculations, especially concerning 
+            - theoretical design of two-dimensional inorganic materials with enhanced thermoelectric properties by band engineering
+            - mechanism of spin properties of symmetry broken solid materials (Rashba effect)
       - degree: B.S. in Physics
         university: Pohang University of Science and Technology
         time: 2007 - 2011
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          # Describe your study here lorem ipsum dolor sit amet, consectetuer
+
 experiences:
     title: Experiences
     info:
@@ -101,78 +92,84 @@ experiences:
         time: 2019 - 2019
         company: Pohang University of Science and Technology, Pohang
         details: |
-            - Bullet point
-            - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+            - computational research on electronic properties of two-dimensional materials
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Electronic structures of CO adsorbed Pt-skin surface on Pt–Co and Pt–Ni alloys
+        link: "https://doi.org/10.1016/j.cap.2021.08.008"
+        authors: Jongkeun Jung, Jisook Hong, Donghan Kim, Minsoo Kim, Jihoon Shim, Changyoung Kim
+        conference: Current Applied Physics 35, 1-6 (2022)
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Understanding the Role of Electronic Effects in CO on the Pt–Sn Alloy Surface via Band Structure Measurements
+        link: "https://doi.org/10.1021/acscatal.1c04566"
+        authors: Jongkeun Jung, Sungwoo Kang, Laurent Nicolaï, Jisook Hong, Ján Minár, 
+        Inkyung Song, Wonshik Kyung, Soohyun Cho, Beomseo Kim, Jonathan D. Denlinger, 
+        Francisco José Cadete Santos Aires, Eric Ehret, Philip Ross, Jihoon Shim, Slavomir Nemšák, 
+        Doyoung Noh, Seungwu Han, Changyoung Kim, and Bongjin Simon Mun
+        conference: ACS Catalysis 12, 219-225 (2021)
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Observation of Dresselhaus type spin splitting of zinc blende structure semiconductors by circular dichroic photoemission study
+        link: "https://doi.org/10.1016/j.cap.2021.06.011"
+        authors: Soohyun Cho, Wonsig Jung, Jisook Hong, Beomyoung Kim, Garam Han, M Leandersson, 
+        T Balasubramanian, Masashi Arita, Kenya Shimada, Ji Hoon Shim, 
+        Changyoung Kim, Seung Ryong Park
+        conference: Current Applied Physics 30, 96-101 (2021)
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: VASP
+        level: 95%
+
+      - name: WIEN2k
+        level: 85%
+        
       - name: Python
         level: 70%
 
-      - name:
-        level:
 
-      - name:
-        level:
+#       - name:
+#         level:
 
-      - name:
-        level:
+#       - name:
+#         level:
 
-      - name:
-        level:
-
-      - name:
-        level:
+#       - name:
+#         level:
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
