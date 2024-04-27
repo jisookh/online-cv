@@ -21,7 +21,7 @@ sidebar:
     xing:
     github: jisookh
     telegram: # add your nickname without '@' sign
-    gitlab: jisookh
+    gitlab: # jisookh
     bitbucket:
     twitter:  # '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -42,7 +42,7 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Gardening
+        - item: Knitting & Crochet
           link:
 
         - item: Running
@@ -51,10 +51,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Currently at Samsung Electronics as a DRAM quality & reliability staff engineer,
-      after studying solid material's properties as a computational materials scientist for 10 years.
-      Based on solid understanding how electrons/holes behave in materials, 
-      I analyze degradation mechanisms of electronic devices under various device working conditions. 
+      A seasoned researcher in the field of computational physics, specializing in the electronic structure calculations of two-dimensional materials. 
+      I earned a Ph.D. through extensive research in this area, followed by a postdoctoral fellowship, where I continued to explore advanced materials science. 
+      Currently, I am employed at POSCO Holdings, where I engage in research projects utilizing first-principle calculations, molecular dynamics and AI techniques
+      to supports the optimization and analysis of materials manufacturing processes, with a focus on precursor co-precipitation and sintering processes of cathode materials. 
 
 education:
     title: Education
@@ -75,23 +75,35 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Staff Engineer
-        time: May. 2021 - Present
-        company: Samsung Electronics, Hwasung
+      - role: Senior Researcher
+        time: Jan. 2023 - Present
+        company: POSCO Holdings, Seoul, South Korea
         details: |
-          I am involved in the development of 1x nanometer technology devices as a Wafer Level Reliability (WLR) Engineer 
+          I engage in research projects utilizing first-principle calculations, molecular dynamics and AI techniques 
+          to supports the optimization and analysis of materials manufacturing processes, with a focus on precursor co-precipitation 
+          and sintering processes of cathode materials. 
+      - role: Staff Engineer
+        time: May. 2021 - Dec. 2022
+        company: Samsung Electronics, Hwasung, South Korea
+        details: |
+          I was involved in the development of 12 nanometer technology devices as a Wafer Level Reliability (WLR) Engineer 
           to detect potential quality issues early and meet customer expectations for intrinsic and extrinsic levels of reliability.
       - role: Postdoctoral Researcher
         time: Jan. 2019 - Feb. 2021
-        company: Lawrence Berkeley National Laboratory, Berkeley
+        company: Lawrence Berkeley National Laboratory, Berkeley, United States
         details: |
           I conducted theoretical studies on structural/electrical/optical properties of 
           two-dimensional organic-inorganic hybrid perovskites using first-principles calculations.
       - role: Postdoctoral Researcher
         time: Sep. 2019 - Dec. 2019
-        company: Pohang University of Science and Technology, Pohang
+        company: Pohang University of Science and Technology, Pohang, South Korea
         details: |
           I worked on computational research on electronic properties of two-dimensional materials.
+      - role: Visiting Scholar
+        time: Sep. 2016 - Feb. 2017
+        company: Lawrence Berkeley National Laboratory, Berkeley, United States
+        details: |
+          I worked with syncrotron scientists on electronic properties of two-dimensional materials.
 
 # projects:
 #     title: Projects
@@ -216,21 +228,21 @@ publications:
         conference: Chemistry of Materials 25, 3745 - 3752 (2013)
         
 
-skills:
-    title: Skills &amp; Proficiency
+# skills:
+#     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Solid State Physics
-        level: 95%
+#     toolset:
+#       - name: Solid State Physics
+#         level: 95%
     
-      - name: VASP
-        level: 95%
+#       - name: VASP
+#         level: 95%
 
-      - name: WIEN2k
-        level: 85%
+#       - name: WIEN2k
+#         level: 85%
         
-      - name: Python
-        level: 70%
+#       - name: Python
+#         level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
